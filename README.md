@@ -4,7 +4,7 @@ Udacity Full Stack Nanodegree - Linux Server Configuration Project
 
 Host Name: ec2-18-217-189-214.us-east-2.compute.amazonaws.com
 
-IP Address: 18.217.189.214
+IP Address: http://18.217.189.214
 
 ### Server Configuration
 
